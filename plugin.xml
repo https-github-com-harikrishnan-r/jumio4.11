@@ -16,7 +16,7 @@
         <header-file src="src/ios/AppDelegate+Deeplinking.h"/>
         <source-file src="src/ios/AppDelegate+Deeplinking.m"/>
 
-
+ <hook type="after_plugin_add" src="src/ios/add-swift-support.js" />
      
 
         <preference name="CAMERA_USAGE_DESCRIPTION"
