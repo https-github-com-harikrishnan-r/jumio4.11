@@ -38,14 +38,7 @@
             <string>$NFC_USAGE_DESCRIPTION</string>
         </config-file>
 
-        <podspec>
-            <config>
-                <source url="https://github.com/CocoaPods/Specs.git"/>
-            </config>
-            <pods use-frameworks="true">
-                <pod name="Jumio" spec="~> 4.11.1"/>
-            </pods>
-        </podspec>
+       
     </platform>
 
     <platform name="android">
