@@ -41,12 +41,12 @@
             </config>
             <pods use-frameworks="true">
 		
-                <pod name="Jumio" spec="4.11.0"/>
+                <pod name="Jumio" spec="4.10.1"/>
             </pods>
 		   
                <pods use-frameworks="false">
 		
-                <pod name="Jumio/Datadog" spec="4.11.0"/>
+                <pod name="Jumio/Datadog" spec="4.10.1"/>
             </pods>
 
 		   
