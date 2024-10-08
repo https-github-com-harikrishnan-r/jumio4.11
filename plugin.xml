@@ -40,8 +40,8 @@
                 <source url="https://github.com/CocoaPods/Specs.git"/>
             </config>
             <pods use-frameworks="true">
-		  <pod name="Starscream" spec="4.0.4"/>
-                <pod name="Jumio" spec="4.11.0"/>
+		 
+                <pod name="Jumio" spec="4.11.1"/>
             </pods>
         </podspec>
        
