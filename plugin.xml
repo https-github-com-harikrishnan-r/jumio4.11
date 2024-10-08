@@ -41,7 +41,7 @@
             </config>
             <pods use-frameworks="true">
 		 
-                <pod name="Jumio" spec="~> 4.11.1"/>
+                <pod name="Jumio" spec="~> 4.11.0"/>
             </pods>
         </podspec>
        
